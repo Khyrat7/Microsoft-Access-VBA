@@ -3,7 +3,7 @@ Hi,
 
 
 1-  SharePoint is my back-end for my application which provide a URL pointing to the attachments field. SharePoint only provide 1 field per table to contain
-    attachment/s. (I don't recommend using SharePoint as a back-end database).
+    attachment/s. (I don't recommend using SharePoint as a back-end database for security reasons i've faced but it can be a good source of data).
 
 2- I'm using SQL statements to render the required data from my SharePoint table, but you should be able to provide a SQL or rst from a local database of online or even a table in
     your access file.
